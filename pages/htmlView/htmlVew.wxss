@@ -1,0 +1,9 @@
+/* pages/htmlVew.wxss */
+@import "../../utils/wxParse/wxParse.wxss";
+
+.bgView{
+  width: 80%;
+  height: 60%;
+  background: red;
+  padding-left: 40px;
+}

@@ -1,0 +1,6 @@
+<!--pages/htmlVew.wxml-->
+<import src="../../utils/wxParse/wxParse.wxml"/>
+
+<view class="bgView">
+    <template is="wxParse" data="{{wxParseData:article.nodes}}"/>
+</view>
